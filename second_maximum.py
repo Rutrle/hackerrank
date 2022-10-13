@@ -13,3 +13,5 @@ if __name__ == '__main__':
             
       
     print(second)
+
+# another possibilities : sort it and then find it, maybe set it then sort it print(list(set(sorted(arr)))[-2])
